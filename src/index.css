@@ -5,6 +5,10 @@
 @tailwind utilities;
 
 * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
   font-family: 'Poppins', sans-serif;
   font-weight: 200;
 }
