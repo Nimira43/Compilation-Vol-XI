@@ -1,7 +1,9 @@
+import TranslatorStart from './components/TranslatorStart'
+
 const App = () => {
   return (
     <div>
-      <h1>Translator</h1>
+      <TranslatorStart />
     </div>
   )
 }
