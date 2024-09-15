@@ -10,7 +10,8 @@ const TranslatorApp = () => {
         <span className="font-fredericka text-2xl text-right">欢迎</span>
       </div>
       <div>
-        <h1>Translator</h1>  
+        <h1>Translator</h1>
+        <button>Start</button>
       </div>
     </div>
       )
