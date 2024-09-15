@@ -1,7 +1,7 @@
 const TranslatorApp = () => {
   return (
     <div>
-      
+      <button></button>
     </div>
   )
 }
