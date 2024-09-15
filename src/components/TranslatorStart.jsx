@@ -1,5 +1,3 @@
-
-
 const TranslatorApp = () => {
   return (
     <div className="w-full h-full flex flex-col justify-center items-center p-12">
@@ -14,7 +12,7 @@ const TranslatorApp = () => {
         <button className="w-32 h-10 bg-[#111] rounded-xl font-bold uppercase text-lg active:translate-y-[1px]">Start</button>
       </div>
     </div>
-      )
+  )
 }
 
 export default TranslatorApp
