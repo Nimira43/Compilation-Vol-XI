@@ -2,12 +2,12 @@
 
 const TranslatorApp = () => {
   return (
-    <div className="w-full h-full flex flex-col justify-center items-center">
-      <div>
-        <span>Welcome. How can I help?</span>
-        <span>Bienvenue. Comment puis-je aider ?</span>
-        <span>Bienvenido. ¿Cómo puedo ayudar?</span>
-        <span>歡迎。我能幫忙嗎？</span>
+    <div className="w-full h-full flex flex-col justify-center items-center p-12">
+      <div className="w-full h-64 bg-[#ff4500] rounded-t-full rounded-bl-full border-8 border-[#111]">
+        <span>Welcome</span>
+        <span>Bienvenue</span>
+        <span>Bienvenido</span>
+        <span>欢迎</span>
       </div>
       <div>
         <h1>Translator</h1>  
