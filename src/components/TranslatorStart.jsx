@@ -9,9 +9,9 @@ const TranslatorApp = () => {
         <span className="font-fredericka text-4xl text-right">Bienvenido</span>
         <span className="font-fredericka text-2xl text-right">欢迎</span>
       </div>
-      <div>
-        <h1>Translator</h1>
-        <button>Start</button>
+      <div className="w-full text-right space-y-5 mt-20 mb-36">
+        <h1 className="text-4xl text-[#111]">Translator</h1>
+        <button className="w-32 h-10 bg-[#111] rounded-xl font-bold uppercase text-lg active:translate-y-[1px]">Start</button>
       </div>
     </div>
       )

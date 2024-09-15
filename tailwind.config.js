@@ -7,6 +7,7 @@ export default {
         poppins: ['Poppins', 'sans-serif'],
         fredericka: ['Fredericka the Great', 'serif'],
       },
+      translate: ['active'],
     },
   },
   plugins: [],
