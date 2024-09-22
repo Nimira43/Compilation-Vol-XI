@@ -1,6 +1,6 @@
 const TranslatorApp = () => {
   return (
-    <div>
+    <div className="w-full flex flex-col gap-y-4 justify-center items-center px-8 pt-12 pb-6">
       <button>
         <i className="fa-solid fa-xmark"></i>
       </button>
