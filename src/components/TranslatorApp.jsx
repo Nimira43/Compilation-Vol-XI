@@ -12,9 +12,12 @@ const TranslatorApp = () => {
       <div>
         <textarea></textarea>
         <div>0/200</div>
-        <button>
+      </div>
+      <button>
           <i className="fa-solid fa-chevron-down"></i>
-        </button>
+      </button>
+      <div>
+        <textarea></textarea>
       </div>
     </div>
   )
