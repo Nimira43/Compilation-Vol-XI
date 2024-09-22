@@ -4,7 +4,7 @@ const TranslatorApp = () => {
       <button className="absolute top-4 right-4">
         <i className="fa-solid fa-xmark text-xl text-[#111]"></i>
       </button>
-      <div className="w-full min-h-20 flex justify-center items-center px-4 bg-[#111] border">
+      <div className="w-full min-h-20 flex justify-center items-center px-4 bg-[#111] border-8 border-[#ff4500] rounded-3xl text-[#87ceeb]">
         <div>English</div>
         <i className="fa-solid fa-arrows-rotate"></i>
         <div>English</div>
